@@ -34,3 +34,24 @@ Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total 
 ### 1010
 Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Após, calcule e mostre o valor a ser pago.
 
+### 1011
+Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R). A fórmula para calcular o volume é: (4/3) * pi * R3. Considere (atribua) para pi o valor 3.14159.
+
+### 1012
+Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
+a) a área do triângulo retângulo que tem A por base e C por altura.
+b) a área do círculo de raio C. (pi = 3.14159)
+c) a área do trapézio que tem A e B por bases e C por altura.
+d) a área do quadrado que tem lado B.
+e) a área do retângulo que tem lados A e B. 
+
+### 1013
+ Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”.
+
+ ### 1014
+ Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km) e o total de combustível gasto (em litros).
+
+ ### 1015
+ Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula.
+
+ 
