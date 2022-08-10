@@ -67,3 +67,7 @@ Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (c�
 
 ### 1019
 Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
+
+### 1020
+Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
+Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
